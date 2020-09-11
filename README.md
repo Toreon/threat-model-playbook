@@ -3,9 +3,9 @@
 # Intro
 We aim to improve product and software security with our new threat modeling playbook. We consider threat modeling as a foundational activity to improve your software assurance. We are convinced that a good threat modeling practice will measurably decrease security issues of delivered products.
 
-As strong believers in open source, active OWASP collaborators and to increase our impact beyond our Toreon computers we donate this threat modeling playbook to the community.
+As strong believers in open source, active OWASP collaborators and to increase our impact beyond our Toreon customers, we donate this threat modeling playbook to the community.
 
-We hope you will use this playbook to improve your threat modeling practice. We also encourage you to provide feedback to our OWASP threat modeling community in order to make this playbook even better in our next release.
+We hope you will use this playbook to improve your threat modeling practice. We also encourage you to provide feedback to our [OWASP threat modeling](https://owasp.org/www-community/Threat_Modeling) community in order to make this playbook even better in our next release.
 
 I thank our collaborators (in alphabetic order): Jonas Muylaert, Joris Van den Broeck, Sebastien Deleersnyder, Steven Wierckx and Thomas Heyman to help us create this first release. I also thank Toreon for its decision to donate this work to the threat modeling community.
 
@@ -18,6 +18,8 @@ OWASP volunteer
 10 September 2020
 
 # PDF version
+
+We released our threat modeling here in markdown. If you are interested in the PDF version, it is available for download on our [website](https://www.toreon.com/threat-modeling-playbook/).
 
 # Diagram
 
