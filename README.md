@@ -19,7 +19,8 @@ OWASP volunteer
 
 # PDF version
 
-We released our threat modeling here in markdown. If you are interested in the PDF version, it is available for download on our [website](https://www.toreon.com/threat-modeling-playbook/).
+We released our threat modeling here in markdown. 
+If you are interested in the PDF version, it is available for download on our [website](https://www.toreon.com/threat-modeling-playbook/).
 
 # Diagram
 
